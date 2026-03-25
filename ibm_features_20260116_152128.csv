@@ -1,0 +1,442 @@
+Release dateVersion number,Functional area,Feature
+2025/11/252.1.16/3.1.3,Books and reporting,Switch views directly from the cube viewer
+2025/11/252.1.16/3.1.3,Books and reporting,Select multiple members with a compact dropdown
+2025/11/252.1.16/3.1.3,Books and reporting,Format text with Markdown in single cell visualization
+2025/11/252.1.16/3.1.3,Books and reporting,Deploy the Planning Analytics AI assistant on the watsonx Orchestrate instance
+2025/11/252.1.16/3.1.3,Modeling,Generate insights for your multivariate forecasts
+2025/11/252.1.16/3.1.3,Modeling,Choose a model family for univariate forecasts
+2025/11/252.1.16/3.1.3,Modeling,Perform variance analysis using AI-generated insights
+2025/11/252.1.16/3.1.3,Modeling,Undo and redo actions in cube views
+2025/11/252.1.16/3.1.3,Modeling,Update schedules for multiple chores in Database explorer
+2025/11/252.1.16/3.1.3,Administation,Configure Planning Analytics for Microsoft Excel from Planning Analytics Administration
+2025/11/252.1.16/3.1.3,Administation,Configure your custom watsonx Orchestrate instance from Planning Analytics Administation
+2025/10/012.1.15/3.1.2,Plans and applications,Copy plan and task IDs from the Planning Analytics Workspace interface
+2025/10/012.1.15/3.1.2,Modeling,Set minimum and maximum values in baseline forecasts
+2025/10/012.1.15/3.1.2,Modeling,Edit hierarchies directly from the cube viewer
+2025/10/012.1.15/3.1.2,Administation,Configure the Websheet service from Planning Analytics Administation
+2025/10/012.1.15/3.1.2,Administation,Enable the Planning Analytics AI assistant per user
+2025/10/012.1.15/3.1.2,Administation,Baseline forecast assets in the LCM
+2025/09/242.0.107/2.1.14/3.1.1,Books and reporting,Set permissions across multiple assets
+2025/09/242.0.107/2.1.14/3.1.1,Books and reporting,Customize notifications for processes run from action buttons
+2025/09/242.0.107/2.1.14/3.1.1,Books and reporting,Content navigation performance improvements
+2025/09/242.0.107/2.1.14/3.1.1,Books and reporting,Copy and paste large member sets in the set editor
+2025/09/242.0.107/2.1.14/3.1.1,Plans and applications,Assign ownership and track progress with data accountability
+2025/09/242.0.107/2.1.14/3.1.1,Plans and applications,Automate plan actions with workflow processes
+2025/09/242.0.107/2.1.14/3.1.1,Modeling,Open process logs in a dedicated workbench tab
+2025/09/242.0.107/2.1.14/3.1.1,Modeling,"Hierarchy editor ""expand all"" option no longer reveals hidden members"
+2025/09/242.0.107/2.1.14/3.1.1,Administation,Capabilities accesssetting is limited in Planning Analytics Administation
+2025/09/242.0.107/2.1.14/3.1.1,Administation,View the database creator in Planning Analytics Administration (Planning Analytics as a Service only)
+2025/07/292.0.106/2.1.13,Books and reporting,Synchronize sets to action icons in Planning Analytics Workspace books
+2025/07/292.0.106/2.1.13,Books and reporting,Edit calculations in the cube viewer
+2025/07/292.0.106/2.1.13,Books and reporting,Use parameterized MDX queries in Planning Analytics Workspace books
+2025/07/292.0.106/2.1.13,Books and reporting,Show distinct ancestors in the Set editor
+2025/07/292.0.106/2.1.13,Books and reporting,Use up to three external variables in multivariate forecasts
+2025/07/292.0.106/2.1.13,Books and reporting,Get insights generated for your forecasts
+2025/07/292.0.106/2.1.13,Books and reporting,Export multivariate forecast values to a CSV file
+2025/07/292.0.106/2.1.13,Books and reporting,Use Data explorer with natural language commands
+2025/07/292.0.106/2.1.13,Plans and applications,Keep the Contribution panel open or closed based on your preference
+2025/07/292.0.106/2.1.13,Modeling,Save export options with your cube view
+2025/07/292.0.106/2.1.13,Modeling,Open a duplicate Drive explorer tab in the modelling workbench (Cloud only)
+2025/07/292.0.106/2.1.13,Modeling,Open duplicate Cube viewer and File manager tabs in the modeling workbench
+2025/07/292.0.106/2.1.13,Modeling,View and manage control objects in the Database explorer
+2025/07/292.0.106/2.1.13,Modeling,Set a default member for a hierarchy
+2025/07/292.0.106/2.1.13,Modeling,Run TurboIntegrator processes from Application shortcuts
+2025/07/292.0.106/2.1.13,Modeling,Open all shortcuts in an Applications folder at the same time
+2025/07/292.0.106/2.1.13,Modeling,Search Applications folders in the TM1 Database
+2025/07/292.0.106/2.1.13,Modeling,Allow users to select different slices for statistical details in baseline forecast
+2025/07/292.0.106/2.1.13,Administation,View the TM1 Server version number in Planning Analytics Administration
+2025/07/292.0.106/2.1.13,Administation,Connect the Planning Analytics AI assistant to a custom IBM watsonx Orchestrate instance
+2025/06/252.0.105/2.1.12,Books and reporting,Display Planning Analytics component versions
+2025/06/252.0.105/2.1.12,Books and reporting,Configure empty pick list value
+2025/06/252.0.105/2.1.12,Books and reporting,Drill views display full toolbar and Set editor
+2025/06/252.0.105/2.1.12,Books and reporting,Updates to OpenShift storage configuration (local only)
+2025/06/252.0.105/2.1.12,Modeling,Change the default data type for new TI process parameters
+2025/06/252.0.105/2.1.12,Modeling,TurboIntegrator process debugger shows variable value in hover help
+2025/06/252.0.105/2.1.12,Modeling,Database explorer displays hierarchy element count
+2025/06/252.0.105/2.1.12,Modeling,Database explorer displays process data source type
+2025/06/252.0.105/2.1.12,Modeling,TM1 Server log provides additional details (Planning Analytics as a Service only)
+2025/06/252.0.105/2.1.12,Modeling,Driver explorer uses web browser password management (Cloud only)
+2025/06/252.0.105/2.1.12,Administation,Configure the HTTPSeessionTimeoutMinutes parameter in Planning Analytics Administration
+2025/06/252.0.105/2.1.12,Administation,Configure memory limit parameters in Planning Analytics Administration
+2025/06/252.0.105/2.1.12,Administation,Increase LCM snapshot size to 100 MB
+2025/05/202.0.104/2.1.11,Books and reporting,Customize the color of selected and highlighted cells
+2025/05/202.0.104/2.1.11,Books and reporting,Remove duplicate members from the Set editor
+2025/05/202.0.104/2.1.11,Books and reporting,Additional options for sharing visualizations as PDF files
+2025/05/202.0.104/2.1.11,Books and reporting,Export forecast values to a CSV file
+2025/05/202.0.104/2.1.11,Modeling,Specify multivariate options for baseline forecasts
+2025/05/202.0.104/2.1.11,Modeling,Use the new Database explorer to view and perform actions on database objects
+2025/05/202.0.104/2.1.11,Administation,Control user access to shared folders in Drive explorer
+2025/05/202.0.104/2.1.11,Administation,Show API key expiration date (Cloud only)
+2025/04/222.0.103/2.1.10,Books and reporting,Create views by using natural language
+2025/04/222.0.103/2.1.10,Books and reporting,Use the Format manager to apply formatting to hierarchies
+2025/04/222.0.103/2.1.10,Books and reporting,Set cell background and font colors by using member and hierarchy formats
+2025/04/222.0.103/2.1.10,Books and reporting,Enhancements to the parameter control types for TurboIntegrator processes
+2025/04/222.0.103/2.1.10,Modeling,New auto-complete options in the rules editor in workbench preferences
+2025/04/222.0.103/2.1.10,Modeling,Change the member type to consolidated in the dimension editor
+2025/04/222.0.103/2.1.10,Modeling,Create shortcuts to all TM1 objects in the modelling workbench
+2025/04/222.0.103/2.1.10,Modeling,Increase the flexibility of baseline forecasts by allowing users to override default context members
+2025/04/222.0.103/2.1.10,Modeling,Sorting options for items in File manager and Drive explorer
+2025/04/222.0.103/2.1.10,Administation,Set database thresholds and alerts in TM1 database 12
+2025/04/222.0.103/2.1.10,Administation,Import users to Planning Analytics Workspace from the TM1 authentication database (Local only)
+2025/04/222.0.103/2.1.10,Planning Analytics Workspace Local,Run Planning Analytics Workspace Local with Podman rootless container
+2025/03/192.0.102/2.1.9,Books and reporting,AI-generated exploration analysis (Cloud only)
+2025/03/192.0.102/2.1.9,Books and reporting,Websheet enhancements
+2025/03/192.0.102/2.1.9,Books and reporting,Hide row and column headers in a view
+2025/03/192.0.102/2.1.9,Books and reporting,Refresh the target book on navigation using an action button
+2025/03/192.0.102/2.1.9,Books and reporting,Zebra strips property moved to Format manager
+2025/03/192.0.102/2.1.9,Books and reporting,Set a maximum and minimum for forecast values
+2025/03/192.0.102/2.1.9,Plans and applications,Search and filter in plans and applications
+2025/03/192.0.102/2.1.9,Modeling,Websheet enhancements
+2025/03/192.0.102/2.1.9,Modeling,Missing attributes control cubes
+2025/03/192.0.102/2.1.9,Modeling,Import data or member from ODBC source
+2025/02/182.0.101/2.1.8,Books and reporting,Use AI to generate cell explanations
+2025/02/182.0.101/2.1.8,Books and reporting,Use the Planning Analytics AI assistant to generate chart insights or impact analysis
+2025/02/182.0.101/2.1.8,Books and reporting,New design for the Action Button configuration options
+2025/02/182.0.101/2.1.8,Books and reporting,Advanced Action Button configuration for TurboIntegrator processes and navigation
+2025/02/182.0.101/2.1.8,Books and reporting,Customize action button parameter title and description
+2025/02/182.0.101/2.1.8,Books and reporting,Add cell values as parameters in TurboIntegrator processes that are run from an Action Button
+2025/02/182.0.101/2.1.8,Books and reporting,Implement custom notifications for TurboIntegrator processes
+2025/02/182.0.101/2.1.8,Books and reporting,Customize cell color based on data state
+2025/02/182.0.101/2.1.8,Books and reporting,New sorting options for views and sets in the Database tree
+2025/02/182.0.101/2.1.8,Books and reporting,Change the search scope in the set editor
+2025/02/182.0.101/2.1.8,Books and reporting,Expand and collapse levels in the set editor
+2025/02/182.0.101/2.1.8,Books and reporting,Export options in books
+2025/02/182.0.101/2.1.8,Books and reporting,Create filters based on string values
+2025/02/182.0.101/2.1.8,Books and reporting,Manage data entry and data spreading in consolidated cells
+2025/02/182.0.101/2.1.8,Books and reporting,Support for parameters in the IBM Planning Analytics Workspace MDX editor
+2025/02/182.0.101/2.1.8,Modeling,Copy menu added to the IBM Planning Analytics Workspace modelling workbench
+2025/02/182.0.101/2.1.8,Modeling,Generate pick lists for selected cells in the cube viewer
+2025/02/182.0.101/2.1.8,Modeling,Open process error logs directly from the server log
+2025/02/182.0.101/2.1.8,Modeling,Increase the flexibility of baseline forecasts by allowing users to override default sets
+2025/02/182.0.101/2.1.8,Modeling,Control logging levels (TM1 Database 12 only)
+2024/12/112.0.100/2.1.7,Books and reporting,Discover AI-generated insights with Chart insights
+2024/12/112.0.100/2.1.7,Books and reporting,Perform AI-driven outlier analysis on explorations
+2024/12/112.0.100/2.1.7,Books and reporting,Use AI-driven impact analysis on explorations to identify key drivers
+2024/12/112.0.100/2.1.7,Plans and applications,My tasks tab available on the homepage
+2024/12/112.0.100/2.1.7,Modeling,Manage performance monitoring from the modeling workbench
+2024/12/112.0.100/2.1.7,Modeling,Search process and rule code
+2024/12/112.0.100/2.1.7,Modeling,Display the element index in the dimension editor
+2024/12/112.0.100/2.1.7,Modeling,Drive explorer enhancements
+2024/12/112.0.100/2.1.7,Modeling,Transaction log enhancements
+2024/10/232.0.99/2.1.6,Books and reporting,Extended language support for Planning Analytics AI assistant
+2024/10/232.0.99/2.1.6,Books and reporting,New advanced synchronization options for member change
+2024/10/232.0.99/2.1.6,Books and reporting,New waterfall visualization
+2024/10/232.0.99/2.1.6,Books and reporting,Use action buttons to synchronize groups and hierarchies on navigation
+2024/10/232.0.99/2.1.6,Books and reporting,Thumb cells formatting options for a view
+2024/10/232.0.99/2.1.6,Books and reporting,Saving a cube view as a native view
+2024/10/232.0.99/2.1.6,Books and reporting,Action button search function
+2024/10/232.0.99/2.1.6,Books and reporting,Changed Selector menu options
+2024/10/232.0.99/2.1.6,Modeling,Roll back value changes in a view
+2024/10/232.0.99/2.1.6,Modeling,Drive explorer enhancements
+2024/10/232.0.99/2.1.6,Modeling,Improved verification of valid file types on file upload
+2024/10/232.0.99/2.1.6,Modeling,Export data from a cube or view on a modeling workbench
+2024/10/232.0.99/2.1.6,Modeling,Export a dimension or hierarchy from a modeling workbench
+2024/10/232.0.99/2.1.6,Modeling,Manage users and groups on a local Planning Analytics database(Local only)
+2024/10/232.0.99/2.1.6,Administration,Identify the HTTP port number for a Planning Analytics database (Cloud only)
+2024/10/232.0.99/2.1.6,Administration,IBM watsonx.ai integration and multiple deployment capabilities (Local only)
+2024/08/212.0.98/2.1.5,Books and reporting,Dynamic to static set conversion when re-ordering members
+2024/08/212.0.98/2.1.5,Books and reporting,New burst export feature
+2024/08/212.0.98/2.1.5,Books and reporting,Improved application of member numeric formats
+2024/08/212.0.98/2.1.5,Books and reporting,More actions are now available in the Planning Analytics AI assistant
+2024/08/212.0.98/2.1.5,Books and reporting,New filters added to cube viewer
+2024/08/212.0.98/2.1.5,Modeling,Lock and unlock an element
+2024/08/212.0.98/2.1.5,Modeling,MDX editor updates
+2024/08/212.0.98/2.1.5,Modeling,Add notes to a modeling workbench
+2024/08/212.0.98/2.1.5,Modeling,Use the new Drive explorer to access the S: drive (Cloud only)
+2024/08/212.0.98/2.1.5,Administration,Use the new Satellite Connector to connect to a private network (Cloud only)
+2024/08/212.0.98/2.1.5,Administration,Manage user capabilities in Planning Analytics Administration (Cloud only)
+2024/08/212.0.98/2.1.5,Administration,IBM Cloud Pak for Data integration renamed and multiple deployment capabilities added
+2024/07/162.0.97/2.1.4,General updates,Define workspace settings from a central Settings editor
+2024/07/162.0.97/2.1.4,Books and reporting,Action button references now updated when you copy and paste books to a new folder
+2024/07/162.0.97/2.1.4,Books and reporting,Plot members from the same dimension in certain charts
+2024/07/162.0.97/2.1.4,Books and reporting,Refresh the current set and MDX query without making changes
+2024/07/162.0.97/2.1.4,Books and reporting,Format spacer cells in the Format manager
+2024/07/162.0.97/2.1.4,Plans and applications,Create color-coded tags in plans and applications
+2024/07/162.0.97/2.1.4,Modeling,Sort hierarchy members in the dimension editor
+2024/07/162.0.97/2.1.4,Administration,Improved user interface for deleting objects
+2024/05/282.0.96/2.1.3,Books and reporting,Use AI to interact with books using natural language
+2024/05/282.0.96/2.1.3,Books and reporting,Use unnamed members in set consolidations
+2024/05/282.0.96/2.1.3,Books and reporting,Lock row header column widths
+2024/05/282.0.96/2.1.3,Books and reporting,Additional click options on an action button
+2024/05/282.0.96/2.1.3,Books and reporting,Improved error toast messages and error handling
+2024/05/282.0.96/2.1.3,Books and reporting,Show and hide format area
+2024/05/282.0.96/2.1.3,Modeling,Create users in a Planning Analytics Local database(local)
+2024/05/282.0.96/2.1.3,Modeling,Localize objects on your database with the Localization editor
+2024/05/282.0.96/2.1.3,Modeling,Use improved auto-complete and validation to simplify rules creation
+2024/05/282.0.96/2.1.3,Modeling,Schedule chores using Daylight Saving Time (DST)
+2024/05/282.0.96/2.1.3,Modeling,Preview a location data source in the process editor
+2024/05/282.0.96/2.1.3,Administration,View the version of IBM Planning Analytics Workspace for a snapshot
+2024/04/232.0.95/2.1.2,Books and reporting,New synchronization settings allow customized display of hierarchies
+2024/04/232.0.95/2.1.2,Plans and applications,Create color-coded tags in plan tasks
+2024/04/232.0.95/2.1.2,Modeling,Enhancements to the File manager
+2024/04/232.0.95/2.1.2,Modeling,Roll back transactions in the transaction log
+2024/04/232.0.95/2.1.2,Modeling,Manage database thread activity on the modeling workbench
+2024/03/202.0.94/2.1.1,Books and reporting,Fields panel now available for explorations
+2024/03/202.0.94/2.1.1,Books and reporting,Use the new Format manager to format cube views
+2024/03/202.0.94/2.1.1,Books and reporting,Create multivariate forecasts
+2024/03/202.0.94/2.1.1,Plans and applications,Open a specific tab as default in book assets
+2024/03/202.0.94/2.1.1,Modeling,Change multiple parameter types in the process editor
+2024/03/202.0.94/2.1.1,Administration,View failed database requests in a separate list (Cloud only)
+2024/03/202.0.94/2.1.1,Administration,Manual database backups limit enforced in Planning Analytics Administration (Planning Analytics as a Service only)
+2024/02/202.0.93,Books and reporting,Book retains data format when saved as a template
+2024/02/202.0.93,Books and reporting,Use the new advanced selector widget to synchronize members
+2024/02/202.0.93,Plans and applications,Manage email notifications in a plan
+2024/02/202.0.93,Plans and applications,Improved handling of simultaneous actions in Plans
+2024/02/202.0.93,Modeling,Copy and move multiple assets or folders
+2024/02/202.0.93,Modeling,New filtering options available in the dimension editor
+2024/02/202.0.93,Modeling,Replace an existing cube
+2024/02/202.0.93,Modeling,Map to existing dimensions when importing data to a new cube
+2024/02/202.0.93,Administration,View subscription overages in Planning Analytics Administration on Cloud
+2024/02/202.0.93,Administration,Planning Analytics Workspace Local support for Red Hat Enterprise Linux 9 (Local only)
+2024/02/202.0.93,Administration,Improved availability of manual database backups in Planning Analytics Workspace on Planning Analytics as a Service
+2023/12/122.0.92,Books and reporting,Changes to single cell widget properties
+2023/12/122.0.92,Plans and applications,Pass context between books in an application or plan
+2023/12/122.0.92,Modeling,Process editor improvements
+2023/12/122.0.92,Administration,Add an individual user in Planning Analytics Administration Local (Local only)
+2023/12/122.0.92,Administration,Create and edit multiple Planning Analytics Local environments (Local only)
+2023/11/142.0.91,Books and reporting,Synchronize gestures across widgets
+2023/11/142.0.91,Books and reporting,Improvements to alignment of single cell widgets
+2023/11/142.0.91,Books and reporting,Set editor access in Properties
+2023/11/142.0.91,Books and reporting,Toolbar properties for the cube viewer and visualizations
+2023/11/142.0.91,Plans and applications,General design improvements in Applications and Plans
+2023/11/142.0.91,Plans and applications,Usability improvements made to the contribution panel in Plans
+2023/11/142.0.91,Modeling,Extended capabilities in Git repository integration
+2023/11/142.0.91,Administration,Changes to database backup management (Planning Analytics as a Service only)
+2023/09/192.0.90,Books and reporting,Set synchronization properties for multiple widgets simultaneously
+2023/09/192.0.90,Books and reporting,Ability to delete data from single cell widgets removed
+2023/09/192.0.90,Books and reporting,Select a member or set by typing its name in an exploration view
+2023/09/192.0.90,Books and reporting,Insert spacer rows and columns in explorations
+2023/09/192.0.90,Books and reporting,Replace button now works on selections in the Current set
+2023/09/192.0.90,Books and reporting,Virtual set and reset features are now available for the current set in the set editor
+2023/09/192.0.90,Books and reporting,AI-generated recommendations available in the Learn Pane
+2023/09/192.0.90,Plans and applications,Usability improvements to the contribution page in Applications and Plans
+2023/09/192.0.90,Modeling,Work with database logs on the modeling workbench
+2023/09/192.0.90,Modeling,Forecasting: Use baseline forecasting to create and share forecasts
+2023/09/192.0.90,Administration,"Simplified process to rename databases, snapshots, and user groups"
+2023/09/192.0.90,Administration,View a user's last login in Planning Analytics Administration
+2023/07/242.0.89,Books and reporting,Use the new Selector visualization in place of selector widgets in your books
+2023/07/242.0.89,Books and reporting,Pick lists now use the font defined for data cells in an exploration
+2023/07/242.0.89,Books and reporting,Resize books to fill space in a tab
+2023/07/242.0.89,Plans and applications,Complete button for tasks that do not require submission
+2023/07/242.0.89,Modeling,Synchronize user groups in Planning Analytics databases with Planning Analytics Workspace
+2023/07/242.0.89,Modeling,Duplicate cubes in the cube viewer
+2023/06/232.0.88,Books and reporting,Synchronize widgets at a group level
+2023/06/232.0.88,Plans and applications,Duplicate applications and plans with attachments
+2023/06/232.0.88,Modeling,Create and insert custom snippets for processes
+2023/06/232.0.88,Modeling,Use subset calculations on the context section of a view
+2023/06/232.0.88,Modeling,Use the new 'Expand to' and 'Keep with' options to organize members in a set
+2023/06/232.0.88,Modeling,Use the new experience dimension editor in books
+2023/06/232.0.88,Modeling,Access process error logs from the Databases tree
+2023/06/232.0.88,Administration,Temporarily pause thread or activity refresh
+2023/05/172.0.87,Books and reporting,Search and filter capability available for current set in the set editor
+2023/05/172.0.87,Books and reporting,Target selection design and usability improvements
+2023/05/172.0.87,Books and reporting,Expand and collapse rows and columns asymmetrically or symmetrically
+2023/05/172.0.87,Books and reporting,Zoom bar available in additional visualizations
+2023/05/172.0.87,Books and reporting,New properties in the Map visualization
+2023/05/172.0.87,Books and reporting,New properties and other changes for the Bullet visualization
+2023/05/172.0.87,Books and reporting,Configuration modification for Learn Pane in Planning Analytics Workspace Local and Cloud Pak for Data
+2023/05/172.0.87,Plans and applications,New tabs on the contribution panel show submission and approval tasks
+2023/05/172.0.87,Modeling,Use the new 'View related cubes' option to identify which cubes include a specific dimension
+2023/05/172.0.87,Modeling,Import a data source with multiple data value columns to an existing cube
+2023/05/172.0.87,Modeling,Use the new editors to manage attributes and security for database objects
+2023/05/172.0.87,Modeling,Manage cell security with a more flexible control cube structure
+2023/05/172.0.87,Administration,View the last login date for Planning Analytics Workspace users
+2023/05/172.0.87,Administration,Include modeling workbenches in Lifecycle Management snapshots
+2023/04/182.0.86,Books and reporting,Synchronize same hierarchies across different databases
+2023/04/182.0.86,Books and reporting,Disable select data spreading methods on Planning Analytics Workspace Local
+2023/04/182.0.86,Plans and applications,Duplicate tasks and sections in Plans and Applications
+2023/04/182.0.86,Plans and applications,New look and usability improvements for Plans Overview
+2023/04/182.0.86,Modeling,Git repository integration for Planning Analytics database objects
+2023/04/182.0.86,Modeling,Dimension editor search and locate in hierarchy
+2023/04/182.0.86,Modeling,Hide databases in Preferences
+2023/03/222.0.85,Books and reporting,Set editor usability improvements
+2023/03/222.0.85,Plans and applications,Improved approval process for plan submissions
+2023/03/222.0.85,Plans and applications,Save task flows in plans as PDF files
+2023/03/222.0.85,Modeling,Reopen recently opened objects from any database
+2023/03/222.0.85,Modeling,Workbench preferences
+2023/03/222.0.85,Modeling,Process editor preferences
+2023/03/222.0.85,Modeling,Lock dimensions in Planning Analytics Workspace
+2023/03/222.0.85,Modeling,Use formulas to manipulate a data source during a .csv import
+2023/03/222.0.85,Modeling,New 'Location' data source option for processes
+2023/02/162.0.84,Books and reporting,Usability improvement in synchronization for visualizations
+2023/02/162.0.84,Books and reporting,Forecasting: New forecast capabilities for Line visualization
+2023/02/162.0.84,Books and reporting,View section icons
+2023/02/162.0.84,Plans and applications,Revert approvals in plans
+2023/02/162.0.84,Plans and applications,Improvements to the 'Task flow' pane for plans
+2023/02/162.0.84,Modeling,Copy object names from the Databases tree
+2023/02/162.0.84,Modeling,TurboIntegrator process debugger
+2023/02/162.0.84,Modeling,Rename hierarchy levels in the dimension editor
+2023/02/162.0.84,Modeling,Manage users and groups on a Planning Analytics database (Cloud only)
+2023/01/192.0.83,Books and reporting,Set default background color for tabs
+2023/01/192.0.83,Books and reporting,Customize styling for repeat column and row titles in visualizations
+2023/01/192.0.83,Books and reporting,New properties in bubble and scatter visualizations
+2023/01/192.0.83,Books and reporting,New properties in line and column visualization
+2022/11/172.0.82,Books and reporting,Automatically remove duplicate members from current set in the set editor
+2022/11/172.0.82,Books and reporting,Improved error handling when visualization has a missing mapped member
+2022/11/172.0.82,Books and reporting,Text fill color property added to single cell widgets
+2022/11/172.0.82,Plans and applications,Add attachments to applications and plans
+2022/11/172.0.82,Modeling,New dimension editor available on the modeling workbench
+2022/11/172.0.82,Modeling,Extend a time dimension in Planning Analytics Workspace
+2022/10/202.0.81,Books and reporting,Single cell widget is now a visualization type
+2022/10/202.0.81,Books and reporting,Align cells and headers
+2022/10/202.0.81,Plans and applications,Use rich text formatting in plan and application descriptions
+2022/10/202.0.81,Plans and applications,Task flow view in plans
+2022/10/202.0.81,Modeling,Updated 'Import members' procedure
+2022/10/202.0.81,Modeling,Snippets in the process editor
+2022/10/202.0.81,Administration,Include plans and applications when you copy and deploy assets with Lifecycle Management
+2022/09/012.0.80,Books and reporting,Drag a view to replace a visualization
+2022/09/012.0.80,Books and reporting,Member unique names in set editor
+2022/09/012.0.80,Books and reporting,Search in the Set list on the Set editor
+2022/09/012.0.80,Books and reporting,"Zoom bar in Area, Line, and Bar visualizations"
+2022/09/012.0.80,Books and reporting,New look for 'Save to server' option when saving a view
+2022/09/012.0.80,Modeling,Check feeders in an exploration on a modeling workbench
+2022/09/012.0.80,Modeling,Support for new experience set editor on the modeling workbench
+2022/09/012.0.80,Modeling,Updated chore editor
+2022/09/012.0.80,Modeling,Updated 'Reorder dimensions' option
+2022/08/252.0.79,Books and reporting,Apply formatting to visualization axis
+2022/08/252.0.79,Books and reporting,Wrap text in data cells
+2022/08/252.0.79,Plans and applications,Track and report on plan progress with the plan Overview report
+2022/08/252.0.79,Plans and applications,Send email reminders to contributors of open tasks
+2022/08/252.0.79,Plans and applications,Set task dependencies for plan automation
+2022/08/252.0.79,Plans and applications,Set a start date for your tasks
+2022/08/252.0.79,Modeling,Process editor available only on modeling workbenches
+2022/08/252.0.79,Modeling,Select multiple variables in the process editor
+2022/08/252.0.79,Modeling,Go to a specific line in the process editor
+2022/08/252.0.79,Modeling,Use the new interface to manage chores involved with a specific process
+2022/08/252.0.79,Administration,Use the new Features and Configuration tile to administer your Planning Analytics Workspace on Cloud environment
+2022/08/252.0.79,Administration,Configure an inactivity timeout for Planning Analytics on Cloud
+2022/07/132.0.78,Books and reporting,"Updated menus for rows, columns, and data cells in views"
+2022/07/132.0.78,Books and reporting,Adjust page size in books
+2022/07/132.0.78,Books and reporting,Enhanced data format feature
+2022/07/132.0.78,Books and reporting,Open set editor for a benched dimension
+2022/07/132.0.78,Books and reporting,Provide a direct path to a Planning Analytics Workspace folder
+2022/07/132.0.78,Plans and applications,Approvals and Rejections in Plans
+2022/07/132.0.78,Modeling,Rules must now be created and maintained on a modeling workbench
+2022/07/132.0.78,Modeling,New experience view now on modeling workbench
+2022/07/132.0.78,Administration,Reset password for Remote Desktop user accounts (Cloud only)
+2022/07/132.0.78,Administration,Update to Planning Analytics Workspace Local installation on Windows Server 2016
+2022/07/132.0.78,Administration,Enable email notifications in Planning Analytics Workspace Local
+2022/06/022.0.77,Books and reporting,Changes to text properties for explorations
+2022/06/022.0.77,Books and reporting,Select the sets that display in a dimension drop-down
+2022/06/022.0.77,Books and reporting,Upload files to a Planning Analytics database with the action button
+2022/06/022.0.77,Books and reporting,Auto-complete and popular search suggestions in the cognitive Learn pane
+2022/06/022.0.77,Books and reporting,Updated menu options for visualization field slots
+2022/06/022.0.77,Books and reporting,Hide hierarchy name to shorten visualization titles
+2022/06/022.0.77,Books and reporting,Restore a book to the currently open tab
+2022/06/022.0.77,Modeling,Manage files with File manager
+2022/06/022.0.77,Modeling,Expand and collapse regions in the process and rules editor
+2022/06/022.0.77,Administration,Upgrade explorations to the new experience
+2022/06/022.0.77,Administration,Viewing the TM1 database version (admins only)
+2022/05/052.0.76,Books and reporting,Sorting available members in the new experience set editor
+2022/05/052.0.76,Books and reporting,Delete sets from the new experience set editor
+2022/05/052.0.76,Books and reporting,Use the updated cell comment feature in the new experience cube viewer
+2022/05/052.0.76,Books and reporting,Enhanced search and filter features
+2022/05/052.0.76,Books and reporting,New properties for tree map visualizations
+2022/05/052.0.76,Books and reporting,Customize the background color for data and header cells
+2022/05/052.0.76,Books and reporting,Updated design for data spread options
+2022/05/052.0.76,Plans and applications,Send email notification when you open a plan step
+2022/05/052.0.76,Modeling,Create control objects on the modeling workbench
+2022/05/052.0.76,Modeling,Preview additional data source rows in the process editor
+2022/05/052.0.76,Administration,Create and apply a custom theme for Planning Analytics Workspace
+2022/04/072.0.75,Books and reporting,"Displaying parents, children, or leaves for selected members"
+2022/04/072.0.75,Books and reporting,Forecasting: Update to predictive forecasting service
+2022/04/072.0.75,Books and reporting,Forecasting: Adjust for outliers in your forecast
+2022/04/072.0.75,Modeling,Changes to cube creation
+2022/04/072.0.75,Modeling,Add variables in the Process editor
+2022/04/072.0.75,Modeling,Search and filter on hierarchies
+2022/03/102.0.74,Books and reporting,Add a view by dragging it from the data tree
+2022/03/102.0.74,Books and reporting,Apply text styles to axis values in visualizations
+2022/03/102.0.74,Books and reporting,Availability of color palettes for conditional formatting in Properties
+2022/03/102.0.74,Books and reporting,Customize your explorations with new properties
+2022/03/102.0.74,Modeling,Updated rules editor
+2022/03/102.0.74,Administration,Windows Server 2019 support (local only)
+2022/02/102.0.73,Books and reporting,"Copy and paste images, pictures, web pages, and text"
+2022/02/102.0.73,Books and reporting,Copy assets or folders to a shared or personal folder
+2022/02/102.0.73,Books and reporting,View all and View less links replaced by a menu in new experience view
+2022/02/102.0.73,Books and reporting,"Sort members, attributes, and properties in the new set editor"
+2022/02/102.0.73,Modeling,New process editor
+2022/02/102.0.73,Modeling,Creation of modeling books no longer supported
+2022/02/102.0.73,Administration,Show agent label instead of IP address in Planning Analytics Administration (Local only)
+2022/02/102.0.73,Administration,Auto-start option for databases (Cloud only)
+2021/12/142.0.71,Books and reporting,New experience view and set editor
+2021/12/142.0.71,Books and reporting,Enable or disable consolidation formatting
+2021/12/142.0.71,Books and reporting,Enhanced text formatting
+2021/12/142.0.71,Books and reporting,Rename pins
+2021/12/142.0.71,Plans and applications,New header for plans and applications administration page
+2021/12/142.0.71,Plans and applications,URLS in plan steps or application sections are now active links
+2021/12/142.0.71,Administration,New UI and functional improvements for Lifecycle Management
+2021/11/162.0.70,Books and reporting,Save a book as a template and set it as a default
+2021/11/162.0.70,Books and reporting,New property added for item borders
+2021/11/162.0.70,Books and reporting,Select multiple items by using mouse drag
+2021/11/162.0.70,Books and reporting,Use custom compact numeric format to display values
+2021/11/162.0.70,Plans and applications,Use enhanced workflow and capabilities when you create plans and applications
+2021/11/162.0.70,Plans and applications,Submit a plan step for all groups to which you belong
+2021/11/162.0.70,Modeling,Modeling workbench search improved to support control objects
+2021/11/162.0.70,Administration,Search on multiple words when monitoring thread activity in Planning Analytics Administration
+2021/11/162.0.70,Administration,Planning Analytics Workspace Local support for Red Hat Enterprise Linux 8 (Local only)
+2021/10/122.0.69,Books and reporting,Use the new Map visualization to view geographic data
+2021/10/122.0.69,Books and reporting,Enhanced Scatter visualization
+2021/10/122.0.69,Books and reporting,Use the new Map visualization to view geographic data
+2021/10/122.0.69,Books and reporting,Rollback data entry button updated
+2021/10/122.0.69,Modeling,New database-level search in the modeling workbench
+2021/10/122.0.69,Modeling,Manage ODBC connections for multiple processes on the modeling workbench
+2021/09/142.0.68,Books and reporting,Use Decision Optimization with Planning Analytics Workspace (Cloud only)
+2021/09/142.0.68,Books and reporting,Dashboard grid size enhancements
+2021/09/142.0.68,Plans and applications,Analysts and modelers can create applications and plans
+2021/09/142.0.68,Administration,Download a Welcome Kit directly from Planning Analytics Administration
+2021/08/242.0.67,Books and reporting,Checkboxes available in the grid view
+2021/08/242.0.67,Books and reporting,Pin widgets while in consumption mode
+2021/08/242.0.67,Plans and applications,Assign a step or a section to everyone in plans/applications
+2021/07/142.0.66,Books and reporting,Forecasting: Apply proportional or relative proportional data spreading to a forecast
+2021/07/142.0.66,Books and reporting,Hide zero/null data points in select visualizations
+2021/07/142.0.66,Books and reporting,Confirm the Clear spreading shortcut command in the cube viewer
+2021/07/142.0.66,Books and reporting,Include attribute headers when exporting a cube view
+2021/07/142.0.66,Books and reporting,Use * and ? wildcards to search in the Set editor
+2021/07/142.0.66,Modeling,The modeling workbench is fully integrated with the product
+2021/07/142.0.66,Modeling,Full-page view of the modeling content
+2021/06/162.0.65,Books and reporting,See the updated view name when you save a view to the server
+2021/06/162.0.65,Books and reporting,Abbreviated format to display large numbers
+2021/06/162.0.65,Books and reporting,Assign multiple data items per slot in a visualization
+2021/06/162.0.65,Books and reporting,Create calculations for named sets
+2021/06/162.0.65,Plans and applications,Minor changes to the procedures for creating plans and applications
+2021/05/182.0.64,Books and reporting,Forecasting: General forecasting improvements
+2021/05/182.0.64,Books and reporting,Apply value formats in visualizations
+2021/05/182.0.64,Books and reporting,Identical font size in equally sized widgets
+2021/05/182.0.64,Modeling,Use the Modeling workbench to create and maintain your model (beta)
+2021/04/212.0.63,Books and reporting,Design and usability improvements
+2021/04/212.0.63,Books and reporting,Use the new Box Plot visualization
+2021/04/212.0.63,Books and reporting,Edit MDX source for a cube view
+2021/04/212.0.63,Administration,Rename a TM1 database
+2021/04/212.0.63,Administration,Remove users in Planning Analytics Workspace
+2021/03/172.0.62,Books and reporting,Seamlessly scroll through all objects in the data tree
+2021/03/172.0.62,Books and reporting,Hide totals in a visualization with a new toolbar button
+2021/03/172.0.62,Books and reporting,Retrieve data from multiple TM1 databases in a websheet (Planning Analytics Workspace local only)
+2021/03/172.0.62,Books and reporting,Use scorecards to track objectives
+2021/03/172.0.62,Books and reporting,Create asymmetric calculations on stacked rows or columns in an exploration
+2021/03/172.0.62,Books and reporting,Synchronize parameters for an Action button that runs a TurboIntegrator process
+2021/03/172.0.62,Books and reporting,Work with values formatted as Percentage in the Cube Viewer
+2021/03/172.0.62,Administration,Delete a TM1 database
+2021/02/102.0.61,Books and reporting,Forecasting: Preview nested dimension
+2021/02/102.0.61,Books and reporting,Search at the node level in the data tree
+2021/02/102.0.61,Books and reporting,Import dimension members from the data tree
+2021/02/102.0.61,Books and reporting,Reset a sandbox
+2021/02/102.0.61,Books and reporting,View assets as tiles
+2021/02/102.0.61,Administration,Create a TM1 database
+2021/02/102.0.61,Administration,Welcome Kit change for Planning Analytics on Cloud
+2021/02/102.0.61,Administration,Sixty minute inactivity timeout for Planning Analytics Workspace on Cloud
+2021/01/122.0.60,Books and reporting,Forecasting: Preview more than one row and forecast by using cube view data
+2021/01/122.0.60,Books and reporting,New data tree Settings menu
+2021/01/122.0.60,Books and reporting,Prefix negative values with a minus sign
+2021/01/122.0.60,Books and reporting,Move assets or folders in a user's personal folder
+2021/01/122.0.60,Plans and applications,Applications and Plans UI enhancements
+2021/01/122.0.60,Administration,Delete a folder for a removed user
+2020/11/172.0.59,Books and reporting,Usability enhancements
+2020/11/172.0.59,Books and reporting,Support for iPad
+2020/11/172.0.59,Administration,Create a global color palette
+2020/10/212.0.58,Books and reporting,Improved look and feel
+2020/10/212.0.58,Books and reporting,Introducing forecasting
+2020/10/212.0.58,Books and reporting,Book and visualization improvements
+2020/10/212.0.58,Books and reporting,Ask for help in the cognitive Learn pane
+2020/10/212.0.58,Plans and applications,Introducing plans and applications
+2020/10/212.0.58,Administration,Database administration enhancements
+2020/10/212.0.58,Administration,Manage the new experience for your users
